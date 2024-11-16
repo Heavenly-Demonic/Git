@@ -1,3 +1,3 @@
-Hello its my first Git repository.
-Fuck it
-Second commit
+Git practice repo ..
+Nothing to hack!
+1st 
