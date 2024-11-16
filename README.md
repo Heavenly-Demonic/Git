@@ -1,5 +1,2 @@
-Hello its my first Git repository.
-Fuck it
-Second commit
-third commit not commited
-
+Git practice repo ..
+Nothing to hack!
