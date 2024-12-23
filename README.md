@@ -1,6 +1,6 @@
-# Git practice .
+# Git practice
 
-Git commands ::.
+	Git commands :
 
 1. git init  	:: Initialize git \n
 2. git add . 	:: Add current folder for commit \n
