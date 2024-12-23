@@ -1,6 +1,6 @@
 Git practice repo ..
 
-Git commands ::
+Git commands ::.
 git init  	:: Initialize git \n
 git add . 	:: Add current folder for commit \n
 git commit -m "":: Stage the files for pushing on git \n
