@@ -1,4 +1,5 @@
-##Git practice 
+#Git practice 
+
 Git commands ::.
 
 1. git init  	:: Initialize git \n
